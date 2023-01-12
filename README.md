@@ -72,6 +72,6 @@
         
 
 ## Contact
-    Created by [anuradha.vijayakumar@gmail.com & krishnachitrak@gmail.com] - feel free to contact me!
+    Created by [anuradha.vijayakumar@gmail.com & krishnachitrak@gmail.com] - feel free to contact us!
 	
 
